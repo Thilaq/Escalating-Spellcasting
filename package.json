@@ -1,0 +1,16 @@
+{
+  "name": "escalating-spellcasting",
+  "version": "1.2.0",
+  "private": true,
+  "description": "Slot-free casting system for Pathfinder 2e (Magic Fatigue) plus Foundry VTT Script macros. Unofficial, free.",
+  "scripts": {
+    "test": "node tools/smoke.mjs macros/escalating-spellcasting-casting.js && node tools/smoke.mjs macros/escalating-spellcasting-spellstrike.js",
+    "check-links": "node tools/check-links.mjs",
+    "check-docs": "node tools/doc-check.mjs",
+    "check": "node tools/check-links.mjs; node tools/doc-check.mjs; node tools/smoke.mjs macros/escalating-spellcasting-casting.js; node tools/smoke.mjs macros/escalating-spellcasting-spellstrike.js"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  }
+}
