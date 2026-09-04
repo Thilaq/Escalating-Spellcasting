@@ -95,7 +95,8 @@ On a normal failure (not a critical one) you pick one of three:
   and the MF you take is the failure column minus 1. One cantrip — not two one-action ones — and
   the −1 is fixed either way.
 - **Recover an action**: the spell is lost; you regain one of the actions you spent, and take the
-  full failure column.
+full failure column. That action cannot be a Cast a Spell for a spell of rank 1 or higher.
+Cantrips and focus spells are allowed.
 - **Forced Effort**: the spell works like you succeeded; take the failure column plus 2 MF.
 
 | category | failure | cantrip | recover action | forced |
