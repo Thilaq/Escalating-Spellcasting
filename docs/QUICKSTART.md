@@ -92,7 +92,7 @@ is −1 per turn, and only a 2+ action cantrip reaches it.
 On a normal failure (not a critical one) you pick one of three:
 
 - **Cantrip fallback**: the spell is lost; you deliver one cantrip of 2 actions or fewer instead,
-  and the MF you take is the failure column minus 1. One cantrip — not two one-action ones — and
+  and the MF you take is the failure column minus 1. One cantrip, not two one-action ones, and
   the −1 is fixed either way.
 - **Recover an action**: the spell is lost; you regain one of the actions you spent, and take the
 full failure column. That action cannot be a Cast a Spell for a spell of rank 1 or higher.
