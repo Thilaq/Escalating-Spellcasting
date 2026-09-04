@@ -147,7 +147,9 @@ pattern. Pick one fallback:
   fewer, delivered with the actions you already spent. Take the failure column, minus 1 MF. It is
   one cantrip, not two one-action ones, and the −1 is the same either way.
 - Recover an action: the spell is lost, but you regain one of the actions you spent on it. Take
-  the full failure column.
+the full failure column. That action cannot be used to Cast a Spell with a rank of 1 or higher,
+you failed this turn and you do not get a free second attempt at it. Cantrips and focus spells are
+always fine to use.
 - Forced Effort: the spell works as if you had succeeded. Take the failure column, plus 2 MF.
 
 | category | failure | cantrip fallback | recover an action | forced effort |
